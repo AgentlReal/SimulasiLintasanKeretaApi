@@ -54,7 +54,7 @@ Proyek ini merupakan simulasi interaktif untuk sistem kontrol gerbang kereta api
 ## Struktur Proyek
 
 ```
-repository-name/
+SimulasiLintasanKeretaApi/
 ├── images/
 │   ├── train.png       # Sprite kereta
 │   ├── sedan.png       # Sprite mobil

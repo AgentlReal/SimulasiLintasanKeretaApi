@@ -28,11 +28,11 @@ Proyek ini merupakan simulasi interaktif untuk sistem kontrol gerbang kereta api
 ### Langkah Instalasi
 1. Clone repositori ini ke komputer Anda:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/AgentlReal/SimulasiLintasanKeretaApi.git
    ```
 2. Navigasikan ke direktori proyek:
    ```bash
-   cd repository-name
+   cd SimulasiLintasanKeretaApi
    ```
 3. Jalankan skrip Python untuk memulai simulasi:
    ```bash
@@ -92,9 +92,3 @@ Kontribusi terbuka untuk pengembangan lebih lanjut. Silakan fork proyek ini dan 
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
-
-## Kontak
-
-Jika ada pertanyaan, silakan hubungi [email@example.com](mailto:email@example.com).

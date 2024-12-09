@@ -1,4 +1,4 @@
-# Sistem Simulasi Gerbang Kereta Api Berbasis Aljabar Boolean
+# Penerapan Penyederhaan Aljabar Boolean pada Sistem Simulasi Gerbang Kereta Api 
 
 Proyek ini merupakan simulasi interaktif untuk sistem kontrol gerbang kereta api, yang dirancang menggunakan **Python** dengan pustaka **Pygame**. Simulasi ini bertujuan untuk menggambarkan penerapan aljabar Boolean dalam mendesain kontrol logika gerbang kereta api secara aman dan efisien.
 
